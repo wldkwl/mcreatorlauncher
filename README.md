@@ -7,6 +7,7 @@
 
 # FAQ
 - Q: Is this malware?
-- A: No, this is not malware, you can check the code if you understand Python.
+- A: No, this is not malware. You can check the code if you understand Python.
 -
-- MORE TO BE ADDED
+- Q: When MacOS?
+- A: Since this doesn't use an installer, that would not be possible. But maybe later, if MCreator allows a way to use the app without installing it.
