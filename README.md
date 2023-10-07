@@ -1,6 +1,6 @@
 # mcreatorlauncher
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W5PWA5M) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svgs)](https://ko-fi.com/W7W5PWA5M) 
 
 <img alt="GitHub release (latest by SemVer and asset)" src="https://img.shields.io/github/downloads/wldkwl/mcreatorlauncher/latest/mcreatorinstaller.exe?style=for-the-badge&logo=windows&label=Total%20downloads">
 
